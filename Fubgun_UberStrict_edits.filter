@@ -82,7 +82,7 @@ SetFontSize 40
 
 Show
 Class "Currency"
-BaseType "Distilled" "Essence of" "Omen of"
+BaseType "Distilled" "Essence of" "Omen of" "Ultimatum"
 SetFontSize 45
 SetTextColor 255 207 132
 SetBorderColor 255 207 132
